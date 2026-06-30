@@ -82,11 +82,12 @@ const anurag = {
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anuragchandr/anuragchandr/output/github-snake.svg" alt="Snake animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anuragchandr/anuragchandr/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anuragchandr/anuragchandr/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/anuragchandr/anuragchandr/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
-> Generated automatically by the snake workflow in [.github/workflows/snake.yml](.github/workflows/snake.yml) and published to the output branch.
 
 ---
 
