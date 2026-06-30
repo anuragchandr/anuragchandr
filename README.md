@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Banner" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anurag%20Chandra&fontAlign=50&fontAlignY=38&color=0:00C9FF,100:92FE9D&fontColor=ffffff"/>
@@ -16,9 +13,6 @@
 Building modern web applications while exploring AI, backend engineering and scalable software.
 </p>
 
-<p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal" width="600"/>
-</p>
 
 ---
 
@@ -63,24 +57,19 @@ const anurag = {
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragchandr&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anuragchandr&theme=tokyonight&hide_border=true"/>
+  <img src="https://metrics.lecoq.io/anuragchandr?template=classic&languages=1&achievements=1" alt="GitHub metrics"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchandr&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anuragchandr&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
 
-# 🏆 Trophies
+# 🏆 DSA
 
-<p align="center">
-<img src="./assets/trophies.svg" alt="GitHub trophies" width="900"/>
-</p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/nrgchandra?theme=light&font=Red%20Hat%20Text&ext=heatmap)
 ---
 
 # 📈 Activity Graph
@@ -94,10 +83,10 @@ const anurag = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuragchandr/anuragchandr/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/anuragchandr/anuragchandr/output/github-snake.svg" alt="Snake animation"/>
 </p>
 
-> Generated automatically by the `snake.yml` workflow in `.github/workflows/` — runs on a schedule via GitHub Actions and commits the SVG to an `output` branch.
+> Generated automatically by the snake workflow in [.github/workflows/snake.yml](.github/workflows/snake.yml) and published to the output branch.
 
 ---
 
