@@ -1,103 +1,122 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Anurag+Chandra;React+Developer;Next.js+Enthusiast;AI+%26+ML+Engineer+in+Progress;Backend+Developer;Building+Impactful+Projects" />
-
-<h1 align="center">Hi 👋, I'm Anurag Chandra</h1>
-
 <p align="center">
-Passionate developer from India 🇮🇳 who loves building scalable web applications, solving DSA problems, and exploring AI/ML.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Electronics & Communication Engineering
-- 💻 Full Stack Developer (MERN)
-- ⚛️ React & Next.js Enthusiast
-- 🤖 AI/ML Explorer
-- 🧩 300+ LeetCode problems & 500+ DSA problems solved
-- 🌱 Currently learning System Design, Backend Engineering & LLMs
-- 🎯 Goal: Build products that solve real-world problems
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/anuragchandra"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,express,mongodb,redis,git,github,docker,linux,vscode,html,css,tailwind&perline=10"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuragchandra&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchandra&theme=tokyonight"/>
+  <img src="./assets/banner.svg" alt="Banner" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchandra&layout=compact&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anurag%20Chandra&fontAlign=50&fontAlignY=38&color=0:00C9FF,100:92FE9D&fontColor=ffffff"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anuragchandra&theme=algolia&margin-w=15"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Anurag+Chandra;Full+Stack+Developer;React+%7C+Next.js+Developer;Backend+Developer;AI+%26+ML+Enthusiast;Always+Learning+Something+New"/>
 </p>
 
----
-
-## 📈 Contribution Graph
+<h2 align="center">👋 Welcome to my GitHub</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragchandra&theme=react-dark"/>
+Building modern web applications while exploring AI, backend engineering and scalable software.
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/anuragchandra/anuragchandra/output/github-contribution-grid-snake.svg"/>
+  <img src="./assets/terminal.svg" alt="Terminal" width="600"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+# 💻 About Me
 
-- 🚓 VigilEye — Anonymous crime reporting platform
-- 📋 AI Job Application Tracker
-- 🥗 NutriLink — Smart Nutrition Platform
-- 🤖 AI-powered Full Stack Applications
+```javascript
+const anurag = {
+  name: "Anurag Chandra",
+  username: "anuragchandr",
+  location: "Bihar, India",
+  education: "B.Tech ECE @ NIT Patna",
+
+  role: "Full Stack Developer",
+
+  currentlyLearning: [
+    "Next.js",
+    "Backend Development",
+    "AI / ML",
+    "System Design"
+  ],
+
+  tech: {
+    frontend: ["React","Next.js","HTML","CSS","JavaScript","TypeScript"],
+    backend: ["Node.js","Express"],
+    database: ["MongoDB","Redis"],
+    languages: ["C++","Python","JavaScript"],
+    tools: ["Git","GitHub","VS Code","Docker","Linux"]
+  },
+
+  motto: "Learn • Build • Improve"
+}
+```
 
 ---
 
-## 📚 Currently Learning
+# ⚙️ Tech Stack
 
-- Advanced Backend Engineering
-- Next.js 15
-- AI Agents
-- Vector Databases
-- System Design
-- DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,redis,cpp,python,git,github,docker,linux,vscode,html,css&perline=9"/>
+</p>
 
 ---
 
-## 💡 Quote
+# 📊 GitHub Stats
 
-> "Code. Learn. Build. Repeat."
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragchandr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anuragchandr&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchandr&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=anuragchandra&label=Profile+Views&color=0e75b6&style=flat)
+# 🏆 Trophies
+
+<p align="center">
+<img src="./assets/trophies.svg" alt="GitHub trophies" width="900"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragchandr&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuragchandr/anuragchandr/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+> Generated automatically by the `snake.yml` workflow in `.github/workflows/` — runs on a schedule via GitHub Actions and commits the SVG to an `output` branch.
+
+---
+
+# ✨ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/hacker.gif" alt="Hacker" width="400"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anuragchandr&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:92FE9D,100:00C9FF"/>
+</p>

@@ -1,0 +1,11 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="320" rx="28" fill="#07111F"/>
+  <rect x="24" y="24" width="852" height="272" rx="20" stroke="#92FE9D" stroke-opacity="0.25" stroke-width="2"/>
+  <path d="M300 98C300 74.8 318.8 56 342 56H420C443.2 56 462 74.8 462 98V126H300V98Z" fill="#00C9FF"/>
+  <path d="M324 126H438V174C438 191.7 423.7 206 406 206H356C338.3 206 324 191.7 324 174V126Z" fill="#FFD166"/>
+  <path d="M346 126H416V150C416 162.2 406.2 172 394 172H368C355.8 172 346 162.2 346 150V126Z" fill="#FF8A00"/>
+  <rect x="330" y="214" width="114" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.16"/>
+  <rect x="330" y="246" width="90" height="16" rx="8" fill="#92FE9D" fill-opacity="0.8"/>
+  <text x="545" y="132" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">GitHub Trophies</text>
+  <text x="545" y="178" fill="#8FA3BF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Achievement badges and profile milestones</text>
+</svg>
