@@ -63,7 +63,9 @@ const anurag = {
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anuragchandr&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
+
 ![Languages](./metrics.plugin.languages.svg)
+
 
 ---
 
